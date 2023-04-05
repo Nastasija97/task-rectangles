@@ -1,0 +1,18 @@
+Given:
+There are several rectangles with coordinates of top left and bottom
+right corners. These rectangles do not intersect each other.
+
+To do:
+You should write a program that generates an HTML table. Table
+cells must be colored so that visually represent relative size and
+mutual arrangement of the rectangles in the best way when this table is
+shown in Google Chrome browser.
+
+The table should be as compact as possible.
+It is prohibited to use absolute positioning for HTML elements.
+
+Requirements:
+- Program must be written as HTML and JavaScript files.
+- JavaScript must be written as a JS file and referenced in the HTML.
+- Input data must be in a separate file.
+- Please provide a sample of input data.
